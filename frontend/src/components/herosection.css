@@ -1,0 +1,46 @@
+.hero-section {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(to right, #f5f0ff, #e0ccff);
+  }
+  
+  .hero-title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero-title span {
+    color: #6a0dad;
+  }
+  
+  .hero-subtitle {
+    max-width: 600px;
+    margin: 0 auto 20px;
+    font-size: 1.2rem;
+    color: #444;
+  }
+  
+  .hero-buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+  
+  .primary-button {
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+  }
+  
+  .secondary-button {
+    background-color: transparent;
+    border: 2px solid #6a0dad;
+    color: #6a0dad;
+  }
+  
+  .hero-image {
+    width: 300px;
+    margin-top: 30px;
+  }
+  
